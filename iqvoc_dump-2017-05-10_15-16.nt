@@ -1,0 +1,96 @@
+<http://itndch.gamsau.archi.fr/_72b9ad8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://itndch.gamsau.archi.fr/_72b9ad8d> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://itndch.gamsau.archi.fr/scheme> .
+<http://itndch.gamsau.archi.fr/_72b9ad8d> <http://www.w3.org/2004/02/skos/core#inScheme> <http://itndch.gamsau.archi.fr/scheme> .
+<http://itndch.gamsau.archi.fr/_72b9ad8d> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crack & Deformation"@en .
+<http://itndch.gamsau.archi.fr/_72b9ad8d> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fissure & Déformation"@fr .
+<http://itndch.gamsau.archi.fr/_72b9ad8d> <http://www.w3.org/2004/02/skos/core#narrower> <http://itndch.gamsau.archi.fr/_7eb0c1ad> .
+<http://itndch.gamsau.archi.fr/_72b9ad8d> <http://www.w3.org/2004/02/skos/core#narrower> <http://itndch.gamsau.archi.fr/_d87a2686> .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#inScheme> <http://itndch.gamsau.archi.fr/scheme> .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crack"@en .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fissure"@fr .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#altLabel> "Fissure"@en .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#altLabel> "Fault"@en .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#altLabel> "Joint"@en .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#altLabel> "Raquelure"@fr .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#altLabel> "fêlure"@fr .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#altLabel> "Fente"@fr .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#altLabel> "Fendage"@fr .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#altLabel> "Faille"@fr .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#altLabel> "Diaclase"@fr .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#broader> <http://itndch.gamsau.archi.fr/_72b9ad8d> .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#narrower> <http://itndch.gamsau.archi.fr/_5c648e5a> .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#narrower> <http://itndch.gamsau.archi.fr/_727ece27> .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#narrower> <http://itndch.gamsau.archi.fr/_9a433b21> .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#narrower> <http://itndch.gamsau.archi.fr/_87c381bd> .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#narrower> <http://itndch.gamsau.archi.fr/_12cd1643> .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#changeNote> _:b1 .
+_:b1 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:b1 <http://purl.org/dc/terms/modified> "2017-05-10T14:51:23+00:00" .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#definition> "Individual fissure, clearly visible by the naked eye, resulting from separation of one part from another."@en .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#definition> "Une fissure est un plan de rupture vu en coupe qui résulte de la séparation d’une pierre en deux par- ties."@fr .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#scopeNote> """Cracking may be due to weathering, flaws in the stone, static problems, rusting dowels, too hard repointing mortar. Vibrations caused by earth tremors, fire, frost may also induce cracking.
+Cracks and fractures occuring on rock carved surfaces are usually named after the geological terminology : joint if there is no displacement of one side with respect to the other, fault if there is a displacement."""@en .
+<http://itndch.gamsau.archi.fr/_7eb0c1ad> <http://www.w3.org/2004/02/skos/core#scopeNote> """La fissuration peut être due à des défauts dans la pierre, des problèmes de statique, à la corrosion d’éléments métalliques, à la présence de mortiers de rejointoiement à la fois adhérents et beaucoup plus durs que la pierre. Les vibrations liées aux tremblements de terre, les incendies, le gel font aussi partie des causes de fissuration.
+Les fissures et fractures des enrochements sculptés sont habi- tuellement dénommés selon la terminologie géologique : diaclase s'il n'y a pas de déplacement de part et d'autre de la fissure ou fracture, faille s'il y a déplacement."""@fr .
+<http://itndch.gamsau.archi.fr/_5c648e5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://itndch.gamsau.archi.fr/_5c648e5a> <http://www.w3.org/2004/02/skos/core#inScheme> <http://itndch.gamsau.archi.fr/scheme> .
+<http://itndch.gamsau.archi.fr/_5c648e5a> <http://www.w3.org/2004/02/skos/core#prefLabel> "Craquele"@en .
+<http://itndch.gamsau.archi.fr/_5c648e5a> <http://www.w3.org/2004/02/skos/core#prefLabel> "Craquellement"@fr .
+<http://itndch.gamsau.archi.fr/_5c648e5a> <http://www.w3.org/2004/02/skos/core#broader> <http://itndch.gamsau.archi.fr/_7eb0c1ad> .
+<http://itndch.gamsau.archi.fr/_5c648e5a> <http://www.w3.org/2004/02/skos/core#definition> "Network of minor cracks also called crack net- work . The term crazing is not appropriate for stone, as this term should be used for describing the development of a crack network on glazed terracotta"@en .
+<http://itndch.gamsau.archi.fr/_5c648e5a> <http://www.w3.org/2004/02/skos/core#definition> "Réseau de fissures peu ouvertes. Le terme faïençage n’est pas approprié pour la pierre : il décrit un réseau de fissures affectant un émail, un enduit"@fr .
+<http://itndch.gamsau.archi.fr/_727ece27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://itndch.gamsau.archi.fr/_727ece27> <http://www.w3.org/2004/02/skos/core#inScheme> <http://itndch.gamsau.archi.fr/scheme> .
+<http://itndch.gamsau.archi.fr/_727ece27> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fracture"@en .
+<http://itndch.gamsau.archi.fr/_727ece27> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fracture"@fr .
+<http://itndch.gamsau.archi.fr/_727ece27> <http://www.w3.org/2004/02/skos/core#broader> <http://itndch.gamsau.archi.fr/_7eb0c1ad> .
+<http://itndch.gamsau.archi.fr/_727ece27> <http://www.w3.org/2004/02/skos/core#changeNote> _:b2 .
+_:b2 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:b2 <http://purl.org/dc/terms/modified> "2017-05-10T14:56:33+00:00" .
+<http://itndch.gamsau.archi.fr/_727ece27> <http://www.w3.org/2004/02/skos/core#definition> "Crack that crosses completely the stone piece"@en .
+<http://itndch.gamsau.archi.fr/_727ece27> <http://www.w3.org/2004/02/skos/core#definition> "issure traversant complètement une pierre."@fr .
+<http://itndch.gamsau.archi.fr/_9a433b21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://itndch.gamsau.archi.fr/_9a433b21> <http://www.w3.org/2004/02/skos/core#inScheme> <http://itndch.gamsau.archi.fr/scheme> .
+<http://itndch.gamsau.archi.fr/_9a433b21> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hair crack"@en .
+<http://itndch.gamsau.archi.fr/_9a433b21> <http://www.w3.org/2004/02/skos/core#prefLabel> "Microfissure"@fr .
+<http://itndch.gamsau.archi.fr/_9a433b21> <http://www.w3.org/2004/02/skos/core#broader> <http://itndch.gamsau.archi.fr/_7eb0c1ad> .
+<http://itndch.gamsau.archi.fr/_9a433b21> <http://www.w3.org/2004/02/skos/core#changeNote> _:b3 .
+_:b3 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:b3 <http://purl.org/dc/terms/modified> "2017-05-10T14:58:01+00:00" .
+<http://itndch.gamsau.archi.fr/_9a433b21> <http://www.w3.org/2004/02/skos/core#definition> "Minor crack with width dimension < 0.1 mm"@en .
+<http://itndch.gamsau.archi.fr/_9a433b21> <http://www.w3.org/2004/02/skos/core#definition> "Fissure d’ouverture inférieure à 0,1 mm."@fr .
+<http://itndch.gamsau.archi.fr/_87c381bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://itndch.gamsau.archi.fr/_87c381bd> <http://www.w3.org/2004/02/skos/core#inScheme> <http://itndch.gamsau.archi.fr/scheme> .
+<http://itndch.gamsau.archi.fr/_87c381bd> <http://www.w3.org/2004/02/skos/core#prefLabel> "Star crack"@en .
+<http://itndch.gamsau.archi.fr/_87c381bd> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fissuration en étoile"@fr .
+<http://itndch.gamsau.archi.fr/_87c381bd> <http://www.w3.org/2004/02/skos/core#broader> <http://itndch.gamsau.archi.fr/_7eb0c1ad> .
+<http://itndch.gamsau.archi.fr/_87c381bd> <http://www.w3.org/2004/02/skos/core#changeNote> _:b4 .
+_:b4 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:b4 <http://purl.org/dc/terms/modified> "2017-05-10T14:58:54+00:00" .
+<http://itndch.gamsau.archi.fr/_87c381bd> <http://www.w3.org/2004/02/skos/core#definition> "Crack having the form of a star. Rusting iron or mechanical impact are possible causes of this type of dama- ge."@en .
+<http://itndch.gamsau.archi.fr/_87c381bd> <http://www.w3.org/2004/02/skos/core#definition> "Ensemble de fissures se développant de façon rayonnante. La corrosion d’éléments métalliques, l’impact de projectiles sont des causes possibles de fissuration en étoile."@fr .
+<http://itndch.gamsau.archi.fr/_12cd1643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://itndch.gamsau.archi.fr/_12cd1643> <http://www.w3.org/2004/02/skos/core#inScheme> <http://itndch.gamsau.archi.fr/scheme> .
+<http://itndch.gamsau.archi.fr/_12cd1643> <http://www.w3.org/2004/02/skos/core#prefLabel> "Splitting"@en .
+<http://itndch.gamsau.archi.fr/_12cd1643> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clivage"@fr .
+<http://itndch.gamsau.archi.fr/_12cd1643> <http://www.w3.org/2004/02/skos/core#broader> <http://itndch.gamsau.archi.fr/_7eb0c1ad> .
+<http://itndch.gamsau.archi.fr/_12cd1643> <http://www.w3.org/2004/02/skos/core#definition> "Fracturing of a stone along planes of weakness such as microcracks or clay/silt layers, in case where the struc- tural elements are orientated vertically. For instance, a column may split into several parts along bedding planes if the load above it is too high"@en .
+<http://itndch.gamsau.archi.fr/_12cd1643> <http://www.w3.org/2004/02/skos/core#definition> "Décrit le développement d’une cassure le long de plans de faiblesse tels que microfissures, couches argileuses, dans le cas où ces éléments structuraux sont orientés vertica- lement. Une pierre posée en délit, par exemple une colonne, peut se cliver le long des plans de litage si la charge qu’elle supporte est trop importante"@en .
+<http://itndch.gamsau.archi.fr/_d87a2686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://itndch.gamsau.archi.fr/_d87a2686> <http://www.w3.org/2004/02/skos/core#inScheme> <http://itndch.gamsau.archi.fr/scheme> .
+<http://itndch.gamsau.archi.fr/_d87a2686> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deformation"@en .
+<http://itndch.gamsau.archi.fr/_d87a2686> <http://www.w3.org/2004/02/skos/core#prefLabel> "Déformation"@fr .
+<http://itndch.gamsau.archi.fr/_d87a2686> <http://www.w3.org/2004/02/skos/core#altLabel> "Plastic deformation"@en .
+<http://itndch.gamsau.archi.fr/_d87a2686> <http://www.w3.org/2004/02/skos/core#altLabel> "Bowing"@en .
+<http://itndch.gamsau.archi.fr/_d87a2686> <http://www.w3.org/2004/02/skos/core#altLabel> "Déformation plastique"@fr .
+<http://itndch.gamsau.archi.fr/_d87a2686> <http://www.w3.org/2004/02/skos/core#altLabel> "Distorsion"@fr .
+<http://itndch.gamsau.archi.fr/_d87a2686> <http://www.w3.org/2004/02/skos/core#altLabel> "Gauchissement"@fr .
+<http://itndch.gamsau.archi.fr/_d87a2686> <http://www.w3.org/2004/02/skos/core#broader> <http://itndch.gamsau.archi.fr/_72b9ad8d> .
+<http://itndch.gamsau.archi.fr/_d87a2686> <http://www.w3.org/2004/02/skos/core#changeNote> _:b5 .
+_:b5 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:b5 <http://purl.org/dc/terms/modified> "2017-05-10T15:02:03+00:00" .
+<http://itndch.gamsau.archi.fr/_d87a2686> <http://www.w3.org/2004/02/skos/core#definition> "Change in shape without loosing integrity, leading to bending, buckling or twisting of a stone block"@en .
+<http://itndch.gamsau.archi.fr/_d87a2686> <http://www.w3.org/2004/02/skos/core#definition> "Changement de forme conduisant à la courbure (convexe ou concave), au bombement ou à la torsion d’une pierre"@fr .
+<http://itndch.gamsau.archi.fr/_d87a2686> <http://www.w3.org/2004/02/skos/core#scopeNote> "This degradation pattern mainly affects crystalline marble slabs (tombstones, marble cladding)"@en .
+<http://itndch.gamsau.archi.fr/_d87a2686> <http://www.w3.org/2004/02/skos/core#scopeNote> "Cette forme d’altération affecte les plaques de marbre cristal- lin (pierres tombales, pierres agrafées)"@fr .
